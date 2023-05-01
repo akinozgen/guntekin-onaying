@@ -1,6 +1,10 @@
 // Define the text to be replaced and its replacement
 const replaceText = {
-  "Gültekin Uysal": "Güntekin Onay"
+  "Gültekin Uysal": "Güntekin Onay",
+  "gültekin uysal": "güntekin onay",
+  "gÜLTEKİN uYSAL": "gÜNTEKİN oNAY",
+  "gultekin uysal": "güntekin onay",
+  "Gultekin Uysal": "Guntekin Onay",
 };
 
 // Replace text in the given node
